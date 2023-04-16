@@ -6,7 +6,7 @@
 </p>
 
 ### 💕 𝚂𝚃𝚁𝙸𝙽𝙶 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝙾𝚃
-  <a href="https://github.com/Itzvenomo"><img alt="Website" src="https://img.shields.io/badge/𝚅𝙴𝙽𝙾𝙼𝙾𝙿-blue"></a>
+  <a href="https://github.com/jigddgb/https-github.com-Itsvenomo-Finex"><img alt="Website" src="https://img.shields.io/badge/𝚅𝙴𝙽𝙾𝙼𝙾𝙿-blue"></a>
  
 [![Stars](https://img.shields.io/github/stars/Itsvenomo/Finex?style=social)](https://github.com/Itsvenomo/Finex/stargazers)
   [![Forks](https://img.shields.io/github/forks/Itsvenomo/Finex?style=social)](https://github.com/Itsvenomo/Finex/fork)
